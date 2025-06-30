@@ -5,7 +5,7 @@
 
 - 💻 Most of my projects are available on [GitHub](https://github.com/Imran775-CT)
 
-- 📫 Reach me at **imranhossain.dev@gmail.com**
+- 📫 Reach me at **trximran775@gmail.com**
 
 - 🧠 Currently completing the **Programming Hero Full Stack Web Development Course**
 
